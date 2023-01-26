@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Person Info App</string>
+    <string name="hello_blank_fragment">Hello blank!</string>
+    <string name="add_the_user_information">Add the Person Information</string>
+    <string name="name">Name</string>
+    <string name="mobile_no">Mobile No.</string>
+    <string name="birthdata">BirthDate</string>
+    <string name="more_information">More Information</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+</resources>
